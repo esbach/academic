@@ -1,0 +1,22 @@
+# Theme metadata
+name = "esbach"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#575757"
+
+# Menu
+menu_primary = "#fcdcdc00"
+menu_text = "#999999"
+menu_text_active = "#111111"
+menu_title = "#111111"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
