@@ -1,15 +1,15 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include Indigenous stewardship and biocultural conservation.
   matter.
 education:
   courses:
-  - course: PhD: Interdisciplinary Ecology
+  - course: PhD Interdisciplinary Ecology
     institution: University of Florida
     year: 2020
-  - course: BA: Sustainabile Development
+  - course: BA Sustainabile Development
     institution: University of Florida
     year: 2008
-email: ""
+email: "mesbach@ufl.edu"
 highlight_name: false
 interests:
 - Indigenous Stewardship
@@ -37,13 +37,13 @@ social:
   link: https://github.com/esbach
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/michael-esbach-32358227/
 superuser: true
 title: Michael Esbach
 ---
 
-Nelson Bighetti is a Postdoctoral Research Associate. 
+Michael Esbach is a Postdoctoral Research Associate. 
 
 He wil be starting at Princeton University in June. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
