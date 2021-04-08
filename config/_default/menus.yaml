@@ -5,11 +5,11 @@
 
 main:
   - name: about
-    url: '#reserch'
+    url: '#about'
     weight: 10
   - name: research
-    url: '#reserch'
+    url: 'reserch/'
     weight: 20
   - name: practice
-    url: '#practice'
+    url: 'practice/'
     weight: 30

@@ -7,7 +7,7 @@ education:
     institution: University of Florida
     year: 2020
   - course: BA Sustainabile Development
-    institution: University of Florida
+    institution: University of Virginia
     year: 2008
 email: "mesbach@ufl.edu"
 highlight_name: false
