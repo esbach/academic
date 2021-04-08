@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: esbach
+theme: minimal
 day_night: false
-font: 'esbach'
+font: 'minimal'
 # XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L 
 
