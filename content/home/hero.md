@@ -15,7 +15,7 @@ advanced:
 widget: hero
 headless: true
 weight: 10
-active: true
+active: false
 cta:
   label: "**Get Started**"
   url: https://wowchemy.com/templates/
