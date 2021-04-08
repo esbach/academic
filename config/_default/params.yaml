@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: false
-font: 'minimal'
+font: 'esbach'
 # XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L 
 
