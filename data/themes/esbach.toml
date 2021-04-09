@@ -5,10 +5,10 @@ name = "esbach"
 light = true
 
 # Primary
-primary = "#575757" # icon colors, link colors
+primary = "#1565c0" # icon colors, link colors
 
 # Menu
-menu_primary = "#fcfcfc00"
+menu_primary = "#fff" # menu bar
 menu_text = "#999999"
 menu_text_active = "#111111" # menu hover over name and page you're on
 menu_title = "#111111"

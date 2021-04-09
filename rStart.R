@@ -1,6 +1,5 @@
 library(blogdown)
 library(rstudioapi)
-library(remotes)
 library(yaml)
 
 # 1: Start the Hugo server
