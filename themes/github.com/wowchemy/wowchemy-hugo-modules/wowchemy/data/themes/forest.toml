@@ -5,13 +5,13 @@ name = "Forest"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "#4caf50" # green
 
 # Menu
-menu_primary = "#4caf50"
-menu_text = "#fff"
-menu_text_active = "#1b5e20"
-menu_title = "#fff"
+menu_primary = "#4caf50" # green
+menu_text = "#fff" # white
+menu_text_active = "#1b5e20" # dark green when hovering
+menu_title = "#fff" # white
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

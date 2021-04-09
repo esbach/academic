@@ -1,19 +1,11 @@
 # Font style metadata
-name = "Minimal"
+name = "esbach"
 
 # Optional Google font URL
-#google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600"
-#google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
-google_fonts = "family=Source+Sans+Pro:wght@200;300&display=swap"
+google_fonts = "family=Lato&family=Source+Sans+Pro:wght@100"
 
 # Font families
-#heading_font = "Montserrat"
-#body_font = "Roboto"
-#nav_font = "Roboto"
-#mono_font = "Roboto Mono"
-
-# Font families
-heading_font = "Josefin Slab"
-body_font = "Raleway"
-nav_font = "Raleway"
-mono_font = "Cutive Mono"
+heading_font = "Source Sans Pro"
+body_font = "Lato"
+nav_font = "Source Sans Pro"
+mono_font = "Lato"

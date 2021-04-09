@@ -42,6 +42,9 @@ rstudioapi::navigateToFile("content/home/about.md")
 rstudioapi::navigateToFile("data/fonts/esbach.toml")
 
 # THEME
+# check out the themes here:
+rstudioapi::navigateToFile("themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/data/themes/minimal.toml")
+# custom theme here
 rstudioapi::navigateToFile("data/themes/esbach.toml")
 
 
