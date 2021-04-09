@@ -2,8 +2,9 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600"
+#google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600"
 #google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Source+Sans+Pro:wght@200;300&display=swap"
 
 # Font families
 #heading_font = "Montserrat"
