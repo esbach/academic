@@ -7,7 +7,7 @@
 
 theme: esbach
 day_night: false
-font: 'esbach'
+font: 'minimal'
 # XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: L 
 
@@ -61,10 +61,10 @@ contact_links:
 main_menu:
   enable: true
   align: r # l=left, c=center, r=right
-  show_logo: true
+  show_logo: true # name in menu bar 
   show_language: false
   show_day_night: false
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
