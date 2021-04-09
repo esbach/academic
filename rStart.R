@@ -1,5 +1,4 @@
 library(blogdown)
-library(usethis)
 library(rstudioapi)
 library(remotes)
 library(yaml)
